@@ -1,4 +1,5 @@
-# CompanyCoreLib
+# CompanyCoreLib 
+https://github.com/DmitriyZ07/CompanyCoreLib.git
 CompanyCoreLib — это библиотека классов на C#, содержащая класс Analytics, который предоставляет метод для анализа дат и определения наиболее популярных месяцев.
 ## Функциональность
 
